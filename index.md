@@ -11,9 +11,8 @@ In my free time, I enjoy playing basketball, trying out my hand at new tech stac
 
 ## Career
 
-### Engineering Summer Analyst
-Goldman Sachs   return
-Jun 2023 - Aug 2023
+### Goldman Sachs - Engineering Summer Analyst
+Jun 2023 - Aug 2023\
 Building a secure automated workflow (using C#, MongoDB, Angular) which encompasses Microsoft’s Active
 Directory to manage permissions and access to network resources, and delegate users to different roles in the firm.
 
