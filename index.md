@@ -9,9 +9,9 @@ Hello! I'm Ashwin, a graduate student pursuing an MS in Computer Science degree 
 In my free time, I enjoy playing basketball, trying out my hand at new tech stacks, and ocassional competitive programming. 
 
 
-##Career
+## Career
 
-#Engineering Summer Analyst
+# Engineering Summer Analyst
 Goldman Sachs 
 Jun 2023 - Aug 2023
 Building a secure automated workflow (using C#, MongoDB, Angular) which encompasses Microsoft’s Active
