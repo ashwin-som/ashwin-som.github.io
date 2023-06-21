@@ -11,12 +11,12 @@ In my free time, I enjoy playing basketball, trying out my hand at new tech stac
 
 ## Career
 ### Goldman Sachs - Engineering Summer Analyst
-<div align="right">Jun 2023 - Aug 2023\
+<div align="right">Jun 2023 - Aug 2023</div>
 Building a secure automated workflow (using C#, MongoDB, Angular) which encompasses Microsoft’s Active
 Directory to manage permissions and access to network resources, and delegate users to different roles in the firm.
 
 ### Amazon - Software Dev Engineer Intern
-<div align="right">May 2022 - Aug 2022\</div>
+<div align="right">May 2022 - Aug 2022</div>
 - Architected a cross-platform tool utilizing Java, Ruby and AWS DynamoDB to enable customizable service
 configurations through website. Reduced developer hours by 160/year.
 - Implemented a caching mechanism to store recent config values, reduced number of API calls made to the website.
