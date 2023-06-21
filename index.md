@@ -8,6 +8,11 @@ Hello! I'm Ashwin, a graduate student pursuing an MS in Computer Science degree 
 
 In my free time, I enjoy playing basketball, trying out my hand at new tech stacks, and ocassional competitive programming. 
 
+## News
+
+- **[Aug. 2023]** Will start as a graduate student at Columbia University.
+- **[June. 2023]** Started working at Goldman Sachs as an Engineering Summer Analyst.
+- **[April, 2023]** Presented my research on perception for autonomous vehicles using dynamic occupancy grids.
 
 ## Career
 **Goldman Sachs - Engineering Summer Analyst**\
@@ -20,17 +25,15 @@ May 2022 - Aug 2022\
 Architected a cross-platform tool utilizing Java, Ruby and AWS DynamoDB to enable customizable service
 configurations through website. Reduced developer hours by 160/year. Also implemented a caching mechanism to store recent config values, reduced number of API calls made to the website.
 
+**Credera - Software Dev Engineer Intern**\
+Jun 2021 - Aug 2021\
+Used Python, Apache, Caddy, Gradle to build a zero-downtime deployment environment for client micro-services. Created a local development option which enables remote development on multiple operating systems.
+
 ## Research Interests
 
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 {% include_relative _includes/publications.md %}
 
