@@ -29,10 +29,12 @@ configurations through website. Reduced developer hours by 160/year. Also implem
 Jun 2021 - Aug 2021\
 Used Python, Apache, Caddy, Gradle to build a zero-downtime deployment environment for client micro-services. Created a local development option which enables remote development on multiple operating systems.
 
-## Research Interests
+## Research
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- Nova (UT Dallas’s autonomous driving research group): Utilized Python, C++, ROS to build the perception system
+and hardware interface for the car. Awarded the UT Dallas 2023 Undergraduate Research Scholar Award for my research.
+- Cognitive Informatics and Statistics Lab: Published research on comparing performances and estimating
+parameters of cognitive diagnostic learning models across multiple datasets. (mathpsych.org/presentation/783).
 
 
 {% include_relative _includes/publications.md %}
