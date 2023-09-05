@@ -37,6 +37,4 @@ and hardware interface for the car. Awarded the UT Dallas 2023 Undergraduate Res
 parameters of cognitive diagnostic learning models across multiple datasets. (mathpsych.org/presentation/783).
 
 
-{% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
