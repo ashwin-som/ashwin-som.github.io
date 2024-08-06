@@ -15,6 +15,10 @@ In my free time, I enjoy playing basketball, trying out my hand at new tech stac
 - **[April, 2023]** Presented my research on perception for autonomous vehicles using dynamic occupancy grids.
 
 ## Career
+**Capital One - Software Engineer Intern**\
+Jun 2024 - Aug 2024\
+Built REST endpoints from SOAP services utilized by 1000+ customers every day using Java, Node and TypeScript deployed on an AWS Lambda to decrease legacy infrastructure costs by 90%. Designed the Lambda instance to directly interact with the SQL database and increase resiliency and allow future changes and scalability through AWS.
+
 **Goldman Sachs - Engineering Summer Analyst**\
 Jun 2023 - Aug 2023\
 Building a secure automated workflow (using C#, MongoDB, Angular) which encompasses Microsoft’s Active
