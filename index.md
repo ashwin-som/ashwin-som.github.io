@@ -10,6 +10,7 @@ In my free time, I enjoy playing basketball, trying out my hand at new tech stac
 
 ## News
 
+- **[June. 2024]** Started working at Capital One as a Software Engineer Intern.
 - **[Aug. 2023]** Started as a graduate student at Columbia University.
 - **[June. 2023]** Started working at Goldman Sachs as an Engineering Summer Analyst.
 - **[April, 2023]** Presented my research on perception for autonomous vehicles using dynamic occupancy grids.
